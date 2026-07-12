@@ -81,6 +81,41 @@ Current build status
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.40.2root_cxx_standard23" alt="variant">
                 </a>
               </td>
+            </tr><tr>
+              <td>osx_arm64_root_base6.36.10root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.36.10root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_root_base6.38.4root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.38.4root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_root_base6.38.4root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.38.4root_cxx_standard23" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_root_base6.40.2root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.40.2root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_root_base6.40.2root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.40.2root_cxx_standard23" alt="variant">
+                </a>
+              </td>
             </tr>
           </tbody>
         </table>
