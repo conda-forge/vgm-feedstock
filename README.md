@@ -47,73 +47,213 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>osx_64_root_base6.36.10root_cxx_standard20</td>
+              <td>osx_64_clhep2.4.4.0geant410.7.4root_base6.36.14root_cxx_standard20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.36.10root_cxx_standard20" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.4.0geant410.7.4root_base6.36.14root_cxx_standard20" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_root_base6.38.4root_cxx_standard20</td>
+              <td>osx_64_clhep2.4.4.0geant410.7.4root_base6.38.6root_cxx_standard20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.38.4root_cxx_standard20" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.4.0geant410.7.4root_base6.38.6root_cxx_standard20" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_root_base6.38.4root_cxx_standard23</td>
+              <td>osx_64_clhep2.4.4.0geant410.7.4root_base6.38.6root_cxx_standard23</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.38.4root_cxx_standard23" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.4.0geant410.7.4root_base6.38.6root_cxx_standard23" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_root_base6.40.2root_cxx_standard20</td>
+              <td>osx_64_clhep2.4.4.0geant410.7.4root_base6.40.4root_cxx_standard20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.40.2root_cxx_standard20" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.4.0geant410.7.4root_base6.40.4root_cxx_standard20" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_root_base6.40.2root_cxx_standard23</td>
+              <td>osx_64_clhep2.4.4.0geant410.7.4root_base6.40.4root_cxx_standard23</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_root_base6.40.2root_cxx_standard23" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.4.0geant410.7.4root_base6.40.4root_cxx_standard23" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_root_base6.36.10root_cxx_standard20</td>
+              <td>osx_64_clhep2.4.7.1geant411.3.2root_base6.36.14root_cxx_standard20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.36.10root_cxx_standard20" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.1geant411.3.2root_base6.36.14root_cxx_standard20" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_root_base6.38.4root_cxx_standard20</td>
+              <td>osx_64_clhep2.4.7.1geant411.3.2root_base6.38.6root_cxx_standard20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.38.4root_cxx_standard20" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.1geant411.3.2root_base6.38.6root_cxx_standard20" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_root_base6.38.4root_cxx_standard23</td>
+              <td>osx_64_clhep2.4.7.1geant411.3.2root_base6.38.6root_cxx_standard23</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.38.4root_cxx_standard23" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.1geant411.3.2root_base6.38.6root_cxx_standard23" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_root_base6.40.2root_cxx_standard20</td>
+              <td>osx_64_clhep2.4.7.1geant411.3.2root_base6.40.4root_cxx_standard20</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.40.2root_cxx_standard20" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.1geant411.3.2root_base6.40.4root_cxx_standard20" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_arm64_root_base6.40.2root_cxx_standard23</td>
+              <td>osx_64_clhep2.4.7.1geant411.3.2root_base6.40.4root_cxx_standard23</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_root_base6.40.2root_cxx_standard23" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.1geant411.3.2root_base6.40.4root_cxx_standard23" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_clhep2.4.7.2geant411.4.2root_base6.36.14root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.2geant411.4.2root_base6.36.14root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard23" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard23" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.4.0geant410.7.4root_base6.36.14root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.4.0geant410.7.4root_base6.36.14root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.4.0geant410.7.4root_base6.38.6root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.4.0geant410.7.4root_base6.38.6root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.4.0geant410.7.4root_base6.38.6root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.4.0geant410.7.4root_base6.38.6root_cxx_standard23" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.4.0geant410.7.4root_base6.40.4root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.4.0geant410.7.4root_base6.40.4root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.4.0geant410.7.4root_base6.40.4root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.4.0geant410.7.4root_base6.40.4root_cxx_standard23" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.1geant411.3.2root_base6.36.14root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.1geant411.3.2root_base6.36.14root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.1geant411.3.2root_base6.38.6root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.1geant411.3.2root_base6.38.6root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.1geant411.3.2root_base6.38.6root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.1geant411.3.2root_base6.38.6root_cxx_standard23" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.1geant411.3.2root_base6.40.4root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.1geant411.3.2root_base6.40.4root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.1geant411.3.2root_base6.40.4root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.1geant411.3.2root_base6.40.4root_cxx_standard23" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.2geant411.4.2root_base6.36.14root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.2geant411.4.2root_base6.36.14root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard23" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard20</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard20" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard23</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=28564&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/vgm-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard23" alt="variant">
                 </a>
               </td>
             </tr>
@@ -141,31 +281,73 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 ```
 
-Once the `conda-forge` channel has been enabled, `vgm` can be installed with `conda`:
+How to use
+----------
+
+<details>
+<summary>With conda</summary>
 
 ```
 conda install vgm
 ```
 
-or with `mamba`:
+</details>
+
+<details>
+<summary>With mamba</summary>
 
 ```
 mamba install vgm
 ```
 
-It is possible to list all of the versions of `vgm` available on your platform with `conda`:
+</details>
+
+<details>
+<summary>With pixi</summary>
+
+```
+# for adding to your local project
+pixi add vgm
+# for installing globally
+pixi global install vgm
+```
+
+</details>
+
+Search package versions
+-----------------------
+
+It is possible to list all of the versions of `vgm` available on your platform:
+
+<details>
+<summary>With conda</summary>
 
 ```
 conda search vgm --channel conda-forge
 ```
 
-or with `mamba`:
+</details>
+
+<details>
+<summary>With mamba</summary>
 
 ```
 mamba search vgm --channel conda-forge
 ```
 
-Alternatively, `mamba repoquery` may provide more information:
+</details>
+
+<details>
+<summary>With pixi</summary>
+
+```
+pixi search vgm --channel conda-forge
+```
+
+</details>
+
+<details>
+<summary>With mamba repoquery, which may provide more information</summary>
 
 ```
 # Search all versions available on your platform:
@@ -177,6 +359,8 @@ mamba repoquery whoneeds vgm --channel conda-forge
 # List dependencies of `vgm`:
 mamba repoquery depends vgm --channel conda-forge
 ```
+
+</details>
 
 
 About conda-forge
