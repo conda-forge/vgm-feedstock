@@ -16,6 +16,8 @@ cxx_compiler:
 - clangxx
 cxx_compiler_version:
 - '21'
+expat:
+- '2'
 geant4:
 - 10.7.4
 macos_machine:
