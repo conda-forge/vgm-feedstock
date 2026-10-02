@@ -10,7 +10,7 @@ source:
   sha256: e39ba53c7e473620f06f9c2ac88fbb645a80ab77617cc2cdfdd5f8ef7a25e71e
 
 build:
-  number: 0
+  number: 1
   skip:
     - win
     - match(geant4, "<11.1")
