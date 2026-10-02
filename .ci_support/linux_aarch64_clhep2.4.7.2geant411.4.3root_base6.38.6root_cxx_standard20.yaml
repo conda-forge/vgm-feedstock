@@ -17,9 +17,9 @@ docker_image:
 expat:
 - '2'
 geant4:
-- 11.4.2
+- 11.4.3
 root_base:
-- 6.36.14
+- 6.38.6
 root_cxx_standard:
 - '20'
 target_platform:

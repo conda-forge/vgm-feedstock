@@ -13,17 +13,17 @@ cxx_compiler:
 cxx_compiler_version:
 - '15'
 docker_image:
-- quay.io/condaforge/linux-anvil-aarch64:alma10
+- quay.io/condaforge/linux-anvil-x86_64:alma10
 expat:
 - '2'
 geant4:
-- 11.4.2
+- 11.4.3
 root_base:
-- 6.40.4
+- 6.38.6
 root_cxx_standard:
-- '23'
+- '20'
 target_platform:
-- linux-aarch64
+- linux-64
 zip_keys:
 - - clhep
   - geant4
