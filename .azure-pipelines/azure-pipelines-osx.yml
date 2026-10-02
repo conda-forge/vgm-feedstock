@@ -58,8 +58,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_64_clhep2.4.7.2geant411.4.2root_base6.36.14root_cxx_standard20:
-        CONFIG: osx_64_clhep2.4.7.2geant411.4.2root_base6.36.14root_cxx_standard20
+      osx_64_clhep2.4.7.2geant411.4.3root_base6.36.14root_cxx_standard20:
+        CONFIG: osx_64_clhep2.4.7.2geant411.4.3root_base6.36.14root_cxx_standard20
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         build_workspace_dir: ~/miniforge3/conda-bld
@@ -68,8 +68,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard20:
-        CONFIG: osx_64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard20
+      osx_64_clhep2.4.7.2geant411.4.3root_base6.38.6root_cxx_standard20:
+        CONFIG: osx_64_clhep2.4.7.2geant411.4.3root_base6.38.6root_cxx_standard20
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         build_workspace_dir: ~/miniforge3/conda-bld
@@ -78,8 +78,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard23:
-        CONFIG: osx_64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard23
+      osx_64_clhep2.4.7.2geant411.4.3root_base6.38.6root_cxx_standard23:
+        CONFIG: osx_64_clhep2.4.7.2geant411.4.3root_base6.38.6root_cxx_standard23
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         build_workspace_dir: ~/miniforge3/conda-bld
@@ -88,8 +88,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard20:
-        CONFIG: osx_64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard20
+      osx_64_clhep2.4.7.2geant411.4.3root_base6.40.4root_cxx_standard20:
+        CONFIG: osx_64_clhep2.4.7.2geant411.4.3root_base6.40.4root_cxx_standard20
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         build_workspace_dir: ~/miniforge3/conda-bld
@@ -98,8 +98,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard23:
-        CONFIG: osx_64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard23
+      osx_64_clhep2.4.7.2geant411.4.3root_base6.40.4root_cxx_standard23:
+        CONFIG: osx_64_clhep2.4.7.2geant411.4.3root_base6.40.4root_cxx_standard23
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15
         build_workspace_dir: ~/miniforge3/conda-bld
@@ -158,8 +158,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_arm64_clhep2.4.7.2geant411.4.2root_base6.36.14root_cxx_standard20:
-        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.2root_base6.36.14root_cxx_standard20
+      osx_arm64_clhep2.4.7.2geant411.4.3root_base6.36.14root_cxx_standard20:
+        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.3root_base6.36.14root_cxx_standard20
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15-arm64
         build_workspace_dir: ~/miniforge3/conda-bld
@@ -168,8 +168,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_arm64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard20:
-        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard20
+      osx_arm64_clhep2.4.7.2geant411.4.3root_base6.38.6root_cxx_standard20:
+        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.3root_base6.38.6root_cxx_standard20
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15-arm64
         build_workspace_dir: ~/miniforge3/conda-bld
@@ -178,8 +178,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_arm64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard23:
-        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.2root_base6.38.6root_cxx_standard23
+      osx_arm64_clhep2.4.7.2geant411.4.3root_base6.38.6root_cxx_standard23:
+        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.3root_base6.38.6root_cxx_standard23
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15-arm64
         build_workspace_dir: ~/miniforge3/conda-bld
@@ -188,8 +188,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_arm64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard20:
-        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard20
+      osx_arm64_clhep2.4.7.2geant411.4.3root_base6.40.4root_cxx_standard20:
+        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.3root_base6.40.4root_cxx_standard20
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15-arm64
         build_workspace_dir: ~/miniforge3/conda-bld
@@ -198,8 +198,8 @@ jobs:
         resize_partitions: false
         store_build_artifacts: false
         tools_install_dir: ~/miniforge3
-      osx_arm64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard23:
-        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.2root_base6.40.4root_cxx_standard23
+      osx_arm64_clhep2.4.7.2geant411.4.3root_base6.40.4root_cxx_standard23:
+        CONFIG: osx_arm64_clhep2.4.7.2geant411.4.3root_base6.40.4root_cxx_standard23
         UPLOAD_PACKAGES: 'True'
         VMIMAGE: macOS-15-arm64
         build_workspace_dir: ~/miniforge3/conda-bld
